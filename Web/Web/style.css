@@ -1,0 +1,17 @@
+h1{
+	text-align:center;
+	font-size:50px;
+	color:red;
+	background:green;
+	width:auto;
+}
+h2{
+	color:green;
+	background:yellow;
+	width:300px;
+	text-align:center;
+}
+img{
+	high:200px;
+	width:200px;
+}

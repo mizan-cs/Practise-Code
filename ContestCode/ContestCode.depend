@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1467883514 source:c:\users\mizan\desktop\my code\contestcode\main.cpp
+	<iostream>
+	<string.h>
+

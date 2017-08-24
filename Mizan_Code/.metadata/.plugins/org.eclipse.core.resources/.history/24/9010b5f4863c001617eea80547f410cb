@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+
+public class SumofSurise {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner get=new Scanner(system.in);
+		System.out.print("Enter the value of N: ");
+		int n=get.nextInt();
+		
+		int sum=0;
+		for(int i=2;i<=n;i=i+2){
+			sum=sum+i;
+		}
+		
+		System.out.println("Sum is "+sum);
+	}
+
+}

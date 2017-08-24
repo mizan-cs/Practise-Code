@@ -1,0 +1,6 @@
+MVI A,07H;
+MVI B,02H;
+MOV C,A;
+SUB B;
+MOV C,A;
+HLT;

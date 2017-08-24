@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1490945176 source:k:\my code\mizan\main.c
+	<stdio.h>
+
+1490945311 source:k:\my code\mizan\stl.cpp
+	<algorithm>
+	<bitset>
+	<cctype>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<deque>
+	<fstream>
+	<iostream>
+	<list>
+	<map>
+	<queue>
+	<set>
+	<sstream>
+	<stack>
+	<string>
+	<utility>
+	<vector>
+	<assert.h>
+
+1490945311 source:k:\my code\mizan\stlmm.cpp
+	<bits/stdc++.h>
+

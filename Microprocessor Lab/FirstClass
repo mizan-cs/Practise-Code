@@ -1,0 +1,7 @@
+MVI A,20H
+MVI B,08H
+SUB B
+SUB B
+SUB B
+
+HLT

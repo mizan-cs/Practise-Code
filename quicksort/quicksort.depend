@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1469899795 source:c:\users\mizan\desktop\my code\quicksort\main.cpp
+	<iostream>
+	<algorithm>
+

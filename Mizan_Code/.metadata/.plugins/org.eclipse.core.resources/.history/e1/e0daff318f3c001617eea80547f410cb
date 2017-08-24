@@ -1,0 +1,33 @@
+
+public class FuncOverload {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		BigNum ob=new BigNum();
+		int n;
+		n=ob.maximum(7,5);
+		System.out.println(n);
+	}
+
+}
+class BigNum{
+	//public int a,b;
+	public int maximum(int x, int y){
+		int max;
+		if(x<y){
+			 max=y;
+		}else{
+			max=x;
+		}
+		return max;
+	}
+	public double maximum(double x, double y){
+		double max;
+		if(x>y){
+			max=x;
+		}else{
+			max=y;
+		}
+		return max;
+	}
+}
